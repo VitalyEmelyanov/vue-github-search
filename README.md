@@ -1,6 +1,8 @@
 # Vue GitHub Search
 
-This project demonstrates simple github user search app made with Vue
+> This project demonstrates simple github user search app made with Vue
+
+[**Demo**](https://vitalyemelyanov.github.io/vue-github-search-demo/)
 
 ![image](https://habrastorage.org/webt/dm/qf/he/dmqfheniepjgrzdnkmzfrestim4.gif)
 
